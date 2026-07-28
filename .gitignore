@@ -47,3 +47,35 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.positai
+
+# Dados
+data/
+
+# Dados baixados pelo TCGAbiolinks
+GDCdata/
+
+# Resultados
+results/
+
+# Figuras
+figures/
+
+# Arquivos do R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Objetos do R
+*.rds
+*.RDS
+*.RData
+*.rda
+
+# Arquivos compactados
+*.zip
+*.gz
+*.tar.gz
+
+# Logs
+*.log
